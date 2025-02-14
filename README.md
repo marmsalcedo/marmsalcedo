@@ -1,8 +1,9 @@
 <h1>Hi, I'm Marella! <br/>
 
-<h2>👨‍💻 Cybersecuirty Projects:</h2>
+<h2>👨‍💻 Front-End Developer Projects</h2>
 
-- <b>Vulnerability Assessment on a Virtual Machine</b>
+- <b>Calculator Application/b>
+  - HTML, CSS & JS
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Network Traffic Analysis with Wireshark</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
