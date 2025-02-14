@@ -2,9 +2,10 @@
 
 <h2>👨‍💻 Front-End Developer Projects</h2>
 
-- <b>Calculator Application/b>
-  - HTML, CSS & JS
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Calculator Application</b>
+  - [HTML, CSS & JS] (https://github.com/marmsalcedo/calculator-app-html-css-js)
+  - [Live Project] (https://marmsalcedo.github.io/calculator-app-html-css-js/)
+
 - <b>Network Traffic Analysis with Wireshark</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
