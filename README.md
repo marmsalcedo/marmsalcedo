@@ -15,7 +15,7 @@
 - [Google Data Analytics - in progress]
 - [Google Cybersecurity](https://www.credly.com/badges/093d4f94-f1c7-494b-9312-bb7930a3c78f/public_url)
 - [IT Specialist in Cybersecurity](https://www.credly.com/badges/80a094b4-042c-4f27-a7db-a027e77685ac/public_url)
-- [IT Specialist in Databases] (https://www.credly.com/badges/80a094b4-042c-4f27-a7db-a027e77685ac/public_url)
+- [IT Specialist in Databases](https://www.credly.com/badges/80a094b4-042c-4f27-a7db-a027e77685ac/public_url)
 
 
 
