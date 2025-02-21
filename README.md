@@ -5,23 +5,18 @@
 - <b>Calculator Application</b>
   - [HTML, CSS & JS](https://github.com/marmsalcedo/calculator-app-html-css-js)
   - [Live Project](https://marmsalcedo.github.io/calculator-app-html-css-js/)
-- <b>Network Traffic Analysis with Wireshark</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+ 
+<h2>📊 Data Analytics</h2>
+
+- <b>Data Cleaning</b>
 
 <h2>📝 Certifications </h2>
 
-- [Google Cybersecurity Professional](https://www.credly.com/badges/093d4f94-f1c7-494b-9312-bb7930a3c78f/public_url)
+- [Google Data Analytics - in progress]
+- [Google Cybersecurity](https://www.credly.com/badges/093d4f94-f1c7-494b-9312-bb7930a3c78f/public_url)
+- [IT Specialist in Cybersecurity](https://www.credly.com/badges/80a094b4-042c-4f27-a7db-a027e77685ac/public_url)
+- [IT Specialist in Databases] (https://www.credly.com/badges/80a094b4-042c-4f27-a7db-a027e77685ac/public_url)
+
 
 
 <h2> 🤳 Connect with me:</h2>
